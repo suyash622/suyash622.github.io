@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Suyash Nigam
-email: [firstname][n][at][andrew.cmu.edu]
+email: suyashn@andrew.cmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Suyash is a graduate student at Carnegie Mellon University, he believes that autonomous vehicles are the moonshot of his generation. He is working on a deep learning based system to detect driver alertness. His other interests include photography, hindi poetry, quizzing and World history.
 baseurl: "" # the subpath of your site, e.g. /blog
