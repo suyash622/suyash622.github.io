@@ -6,14 +6,13 @@ permalink: /about/
 
 Namastey World!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am a graduate student at Carnegie Mellon University; from New Delhi, India. I am interested in reinforcement learning and non parametric Bayesian Inference, applied to autonomous driving application. My other interests include photography, hindi poetry, quizzing and World history.
+I write code.
+[Github](https://github.com/suyashnigam)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I, well used to, write poems.
+
+[kavita](https://suyashnigam.github.io/kavita)
 
 
-[jekyll-organization]: https://github.com/jekyll
 
